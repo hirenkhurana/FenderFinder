@@ -32,5 +32,6 @@ To deploy to localhost:
  
 ## Machine Learning 
 
-- notebook containing training code
-- run the code on the training set as required and download the model to upload it in the backend
+- A resNet50 model that is trained to classify the image of the car based on its the model
+- notebook containing training code is in the ML folder
+- run the code on your training set as required and download the model to upload it in the backend
